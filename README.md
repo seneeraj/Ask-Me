@@ -1,4 +1,4 @@
-# Hindi Document Q&A System 🇮🇳
+# Hindi Document Q&A System
 
 An intelligent Streamlit-based application that allows users to upload Hindi PDF documents and ask questions in Hindi or English. The app uses Retrieval-Augmented Generation (RAG) to extract relevant information and generate accurate, context-aware answers. It also supports comparison between two documents.
 
